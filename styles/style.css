@@ -59,3 +59,27 @@
 .hot-deal-item h3{
 font-size: 25px;
 }
+
+
+
+/* ======================Instragram Section ========================================== */
+.inst-section{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.inst-description{
+    margin-top: 80px;
+    text-align: center;
+}
+.inst-description h3{
+    font-size: 25px;
+    font-weight: 700;
+}
+.inst-image{
+    text-align: center;
+    margin-top: 50px;
+}
+.image{
+    width: 20%;
+}
