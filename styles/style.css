@@ -11,11 +11,15 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background-color:#FFD4CF;
+    background-color:rgba(229, 84, 115, 0.10);
     padding-top: 50px;
     padding-left: 30px;
 }
 
+.header h1{
+    font-size: 45px;
+    font-weight: 700;
+}
 .header-description{
     margin-left: ;
 }
@@ -27,4 +31,31 @@
     margin-top: 30px;
     color: white;
     font-size: 20px;
+}
+
+
+
+
+
+
+/* Hot Deal Section */
+
+.hot-deal{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color:rgba(229, 84, 115, 0.10);
+    margin-top: 50px;
+    padding: 50px;
+}
+.hot-deal-item{
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+.off-pink{
+    color: #E55473;
+}
+.hot-deal-item h3{
+font-size: 25px;
 }
