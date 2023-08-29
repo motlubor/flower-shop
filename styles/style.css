@@ -83,3 +83,27 @@ font-size: 25px;
 .image{
     width: 20%;
 }
+
+/* ================================ Latest Deal Section ============================== */
+
+.latest-deal{
+   display: flex;
+   justify-content: center;
+}
+.latest-deal-item{
+    
+    background-image: url('../flower-asset/Rectangle\ 9.png');
+    width: 75%;
+
+    padding: 100px 40px;
+    margin: 150px 0px;
+    text-align: center;
+}
+.email-input{
+    width: 40%;
+    border: 0;
+    background-color:white;
+    padding: 15px 20px;
+    margin: 0 30px;
+
+}
