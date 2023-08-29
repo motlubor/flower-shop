@@ -107,3 +107,18 @@ font-size: 25px;
     margin: 0 30px;
 
 }
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 85px 0;
+
+}
+footer h2{
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+footer small{
+    display: block;
+    margin-top: 25px;
+}
