@@ -21,7 +21,10 @@
     font-weight: 700;
 }
 .header-description{
-    margin-left: ;
+text-align:left;
+margin-right: 150px;
+padding-left: 50px;
+width: 50%;
 }
 .btn-primary{
     background-color: #E55473;
@@ -177,7 +180,7 @@ footer small{
 /* ============================ Feedback ================ */
 
 .feedback{
-    background-color: rgba(166, 211, 228, 0.1);
+    background-color: rgba(48, 78, 55, 0.1);
     width: 50%;
     margin: auto;
     padding: 60px;
