@@ -106,12 +106,15 @@ font-size: 25px;
     padding: 15px 20px;
     margin: 0 30px;
 
+    /* =========================Footer======================= */
+
 }
 footer{
     background-color: black;
     color: white;
     text-align: center;
     padding: 85px 0;
+    margin-top: 80px;
 
 }
 footer h2{
@@ -121,4 +124,34 @@ footer h2{
 footer small{
     display: block;
     margin-top: 25px;
+}
+
+/* ============================ Feedback ================ */
+
+.feedback{
+    background-color: rgba(166, 211, 228, 0.1);
+    width: 50%;
+    margin: auto;
+    padding: 60px;
+    border-radius: 15px;
+    box-shadow: 20px 20px 55px grey;
+}
+.checkbox-feedback{
+    display: block;
+}
+
+.feedback-item h2, p{
+text-align: center;
+margin-top: 5px;
+margin-bottom: 5px;
+
+
+}
+
+.feedback-item p{
+    margin-bottom: 15px;
+}
+.textarea{
+    display: block;
+    margin-top: 30px;
 }
